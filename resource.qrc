@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/boot page background.jfif</file>
+        <file>images/ordia title.png</file>
+        <file>images/boot page background2.jpg</file>
+        <file>images/boot page background3.jpg</file>
+        <file>images/boot page background4.jfif</file>
+        <file>images/boot page background5.jfif</file>
+        <file>images/rocks.png</file>
+        <file>images/decorations.png</file>
+        <file>images/decoration2.png</file>
+        <file>images/rocks2.png</file>
+        <file>images/sticks.png</file>
+        <file>images/sticks2.png</file>
+        <file>images/sticks3.png</file>
+        <file>images/main page.png</file>
+        <file>images/lv1 entrance.png</file>
+    </qresource>
+</RCC>
